@@ -74,11 +74,23 @@ label {
     margin: auto;
 }
 
+.google-form {
+    position: absolute;
+}
+
+.google-form::before {
+    content: '';
+    background:  #E5F77D;
+    width: 100%;
+    height: 4px;
+    margin: auto;
+    display: block;
+}
 
 form {
     position: absolute;
-    left: 25%;
-    top: 25%
+    left: 50%;
+    transform: translate(-50%);
 }
 
 .small-tex {
