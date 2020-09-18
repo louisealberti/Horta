@@ -23,7 +23,7 @@ h1::after {
     display: block;
 }
 
-#minhaconta::after {
+.minhaconta::after {
     content: '';
     background:  transparent;
     width: 100%;
@@ -65,13 +65,19 @@ label {
 .floatbox {
     position: absolute;
     width: 80vw;
-    height: 80vh;
+    height: 80%;
     top: 65%;
     left: 50%;
     transform: translate(-50%,-65%);
     box-shadow: 12px 12px 30px #1B1E27, -12px -12px 15px #474B5F;
     border-radius: 12px;
     margin: auto;
+}
+
+#form-inscreva-se {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
 }
 
 .google-form {
@@ -391,5 +397,3 @@ a:hover {
     }
 
 }
-
-/* ---------- MAJU ---------- */
