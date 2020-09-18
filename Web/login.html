@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Heebo:wght@300;400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <title>Login</title>
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg container navbar-dark bg-dark">
+
+        <a class="navbar-brand navbar-brand navbar-brand_name" href="#">
+            <img src="./images/logo-horta.svg" class="img-fluid navbar-logo" alt="Horta logotipo">
+            HORTA
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse my-lg-0" id="navbarSupportedContent">
+            <ul class="nav navbar-nav ml-auto bg-dark">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="plantas.html">Plantas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="pragas.html">Pragas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="inscreva-se.html">Inscreva-se</a>
+                </li>
+                <li class="nav-item button">
+                    <button type="button" class="btn  btn-success navbar-btn-enter">Entrar</button>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">
+                        <img src="./images/lupa.svg" alt="">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- FORM -->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col flex-column floatbox">
+                <h1 class="mx-5 mt-4">Login</h1>
+
+                <div class="row">
+                    <form method="post">
+                        <label for="name">Usuário</label>
+                        <input type="text" class="form-control" name="name">
+                        <label for="password">Senha</label>
+                        <input type="password" class="form-control" name="password">
+                        <label><a class="small-tex" href="#">Esqueci minha senha</a></label>
+                        <div class="form-group">
+                            <button class="btn btn-primary btn-login" type="submit">Entrar</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="row">
+                    <button type="button" class="btn btn-primary"><i class="fab fa-google icon-google"></i>Continuar
+                        usando Google</button>
+                </div>
+            </div>
+
+            <!-- FOOTER -->
+            <div class="row text-center d-flex justify-content-center m-0 footer">
+                <div class="col">
+                    <ul class="nav d-flex justify-content-center">
+
+                        <li class="col-md-3 col-sm-6 text-center mt-2 d-flex flex-column footer-title">
+                            Redes Sociais
+                            <div class="row d-flex justify-content-center">
+                                <a href="https://www.facebook.com/" class="nav-link p-0 mt-3 m-1">
+                                    <img src="images/logo_facebook.svg" class="img-fluid footer-social_media"
+                                        alt="Logo do Facebook">
+                                </a>
+                                <a href="https://www.instagram.com/" class="nav-link p-0 mt-3 m-1">
+                                    <img src="images/logo_instagram.svg" class="footer-social_media"
+                                        alt="Logo do Instagram">
+                                </a>
+                                <a href="https://www.twitter.com/" class="nav-link p-0 mt-3 m-1">
+                                    <img src="images/logo_twitter.svg" class="img-fluid footer-social_media"
+                                        alt="Logo do Twitter">
+                                </a>
+                            </div>
+                        </li>
+
+                        <li class="col-md-3 col-sm-6 text-center mt-2 align-content-center footer-title">
+                            Produtos
+                            <ul class="nav d-flex flex-column footer-title">
+                                <li class="av-item">
+                                    <a href="oqueeh.html" class="badge font-weight-normal footer-links">O que é?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="porqueusar.html" class="badge font-weight-normal footer-links">Por que
+                                        usar?</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="inspiracao.html"
+                                        class="badge font-weight-normal footer-links">Inspiração</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li
+                            class="col-md-3 col-sm-6 text-center mt-2 d-flex align-content-center flex-column footer-title">
+                            Empresa
+                            <ul class="nav footer-title d-flex flex-column">
+                                <li class="nav-item">
+                                    <a href="sobre.html" class="badge font-weight-normal footer-links">Sobre</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="marca.html" class="badge font-weight-normal footer-links">Marca</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li
+                            class="col-md-3 col-sm-6 text-center mt-2 d-flex align-content-center flex-column footer-title">
+                            Políticas
+                            <ul class="nav footer-title d-flex flex-column">
+                                <li class="nav-item">
+                                    <a href="termos.html" class="badge font-weight-normal footer-links">Termos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="privacidade.html"
+                                        class="badge font-weight-normal footer-links">Privacidade</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <br />
+                    <div class="col d-flex flex-column footer-end">
+                        <div class="row">
+                            <img src="images/logo-horta.svg" class="img-fluid ml-3 footer-logo" alt="Logo da Horta">
+                            <h3 class="mt-2 footer-brand_name">HORTA</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <script src="https://kit.fontawesome.com/d523d30d0c.js" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+            </script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+            integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+            </script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+            integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+            </script>
+</body>
+
+</html>
