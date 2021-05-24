@@ -2,4 +2,4 @@
 
 Integrator project comprises the knowledge acquired in the course Java Full Stack - Digital House
 
-## :man_farmer: :woman_farmer: Projeto Integrador -  Web Full Stack Java, Digital House
+## Integrator Project -  Web Full Stack Java, Digital House
