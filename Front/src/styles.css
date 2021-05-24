@@ -1,0 +1,51 @@
+/* You can add global styles to this file, and also import other style files */
+/* Application-wide Styles */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+:root {
+  --main-bg-color: #373B4D;
+  --second-bg-color: #FCF5EE;
+  --main-txt-color:  #FCF5EE;
+  --second-txt-color:  #373B4D;
+  --first-accent-color: #E5F77D;
+  --second-accent-color: #F4935C;
+  --footer-bg-color: #C9AF97;
+  --main-font-family: 'Anton', sans-serif;
+  --secondary-font-family: 'Heebo', sans-serif;
+}
+
+body {
+  background-color: var(--main-bg-color)!important;
+}
+
+body, 
+html {
+  height: 100%;
+  width: 100%;
+  font-family: var(--secondary-font-family);
+}
+
+*,
+  *::before,
+  *::after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    color: var(--main-txt-color);
+    font-family: var(--main-font-family);
+    font-size: 30px;
+    padding: 30px;
+  }
+  
+  h1::after {
+    content: '';
+    background: var(--first-accent-color);
+    width: 100%;
+    height: 2px;
+    margin: auto;
+    display: block;
+  }
