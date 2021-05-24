@@ -4,6 +4,7 @@ Integrator project comprises the knowledge acquired in the course Web Full Stack
 
 ### Group:
 
-- Maju [https://github.com/majutre]
-- Cícero [https://github.com/cicerosouza025]
-- Tarsila []
+- [Cícero] (https://github.com/cicerosouza025)
+- [Maju] (https://github.com/majutre)
+- [Tarsila] ()
+- [Tiago]
