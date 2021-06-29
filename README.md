@@ -1,6 +1,6 @@
 # HORTA :strawberry: :leafy_green:
 
-![home](IP-Horta-Home)
+!(IP-Horta-Home)
 
 Integrator project comprises the knowledge acquired in the course Web Full Stack Java - Digital House
 
