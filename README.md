@@ -15,11 +15,51 @@
 <p align="justify">The cultivation of a vegetable garden has more advantages than you think. This activity helps reduce stress, anxiety and depression, furthermore, it contributes to the individual's physical and mental well-being.</p>
 
 ![PlantProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantProfile.png)
+
+#### Urban Vegetable Gardens Benefits
+
+1. Improve air quality
+2. Reduce contamination in the cultivation process (transport, pesticides...)
+3. Use for organic waste (compost)
+4. Healthy Nutrition
+5. Contribute to a more sustainable and resilient city
+6. Decreases food waste (especially by reducing the distance traveled to where it will be consumed)
+
 ![UserProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-UserProfile.png)
 
+#### System Objective
+
+<p align="justify">A system that assists the planting, maintenance and care of a residential urban vegetable garden.</p>
+
+#### Functionalities
+- Save the plants chosen by the user for cultivation
+- Displays information about plants
+- Presents information about pests and diseases
+- Relation between plants and pests
+- E-mail service
+
+### Front-End
+
+- Angular 8
+- CSS3
+- HTML
+- BootStrap
+- JavaScript
+
+### Database
+
+- MySQL
+- MySQL WorkBench
+- phpMyAdmin
+- JawsDB
+
+### Back-End
+
+- Java
+- Spring Boot
 
 
-Visit the final project at:
+## Visit the final project at:
 
 > http://dh-horta.herokuapp.com/home
 (Project without database of plants and plagues)
