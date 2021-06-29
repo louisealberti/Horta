@@ -1,12 +1,16 @@
-# HORTA
+# HORTA - Integrator Project
+
+#### Integrator project comprises the knowledge acquired in the course Web Full Stack Java - Digital House
 
 ![Home](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-Home.png)
+
+###### New consumption habits and lifestyle have changed the way people relate to food. Due to economic, health, environmental or leisure reasons, the amount of individuals that produce part of the food they consume at their homes has increased. Horta application offers assistance for cultivating urban residential gardens, and helping with their care routine.
+
 ![PlantSearch](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantSearch.png)
 ![PlantProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantProfile.png)
 ![UserProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-UserProfile.png)
 
 
-Integrator project comprises the knowledge acquired in the course Web Full Stack Java - Digital House
 
 Visit the final project at:
 
