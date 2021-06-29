@@ -1,4 +1,4 @@
-# HORTA :strawberry: :leafy_green:
+# HORTA
 
 ![Home](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-Home.png)
 
