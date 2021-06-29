@@ -1,6 +1,10 @@
 # HORTA
 
 ![Home](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-Home.png)
+![PlantSearch](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantSearch.png)
+![PlantProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantProfile.png)
+![UserProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-UserProfile.png)
+
 
 Integrator project comprises the knowledge acquired in the course Web Full Stack Java - Digital House
 
