@@ -4,12 +4,15 @@
 
 ![Home](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-Home.png)
 
-###### <p align="justify">New consumption habits and lifestyle have changed the way people relate to food. Due to economic, health, environmental or leisure reasons, the amount of individuals that produce part of the food they consume at their homes has increased. Horta application offers assistance for cultivating urban residential gardens, and helping with their care routine.</p>
+<p align="justify">New consumption habits and lifestyle have changed the way people relate to food. Due to economic, health, environmental or leisure reasons, the amount of individuals that produce part of the food they consume at their homes has increased. Horta application offers assistance for cultivating urban residential gardens, and helping with their care routine.</p>
 
 ![PlantSearch](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantSearch.png)
 
-Changes in economic, political and social reality have generated criticism on social idiosyncrasies. A repercussion of this is related to sustainability along with a healthier and balanced lifestyle.
-The cultivation of a vegetable garden has more advantages than you think. This activity helps reduce stress, anxiety and depression, furthermore, it contributes to the individual's physical and mental well-being.
+<p align="justify">Changes in economic, political and social reality have generated criticism on social idiosyncrasies. A repercussion of this is related to sustainability along with a healthier and balanced lifestyle.</p>
+
+<p align="justify">Urban vegetable gardens are a trend all over the world. This movement was intensified due to the societal behavior tranformations, such as the concern with the use of pesticides and the search for healthy nutrition. Recently, the number of people initiating home gardens has grown as a form of distraction that enables social distancing.</p>
+
+<p align="justify">The cultivation of a vegetable garden has more advantages than you think. This activity helps reduce stress, anxiety and depression, furthermore, it contributes to the individual's physical and mental well-being.</p>
 
 ![PlantProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-PlantProfile.png)
 ![UserProfile](https://github.com/louisealberti/Integrator_Project_-_Horta/blob/master/IP-Horta-UserProfile.png)
